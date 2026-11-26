@@ -14,3 +14,7 @@
 1. Nunca trabajar directamente en `main`.
 2. Usar mensajes de commit semanticos.
 3. Mantener commits pequenos y atomicos.
+
+## Tip adicional
+
+- `git rebase main`: reaplicar los commits de tu rama sobre la version mas reciente de `main` para mantener un historial lineal.
